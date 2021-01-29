@@ -9,12 +9,12 @@ of clean and renewable energy, and also for eco-friendly feedstock to
 obtain nanostructured materials and plastics. 
 </td>
 <td>
-<img src=./assets/page_images/cana.jpg>
+<img src=../assets/page_images/cana.jpg>
 </td>
 </tr></table>
 
 <table width=100%><tr><td width=30%>
-<img src=./assets/page_images/foam.jpg>
+<img src=../assets/page_images/foam.jpg>
 </td><td>
 Plant cell wall is one of the most abundant sources of renewable energy
 and particles on earth, which can improve the global production of
@@ -39,7 +39,7 @@ the feedstock, decreasing the amount of residues and maximizing the
 useful products is a more sustainable and economically viable way to
 valorise the biomass sources. 
 </td><td>
-<img src=./assets/page_images/elephant_grass.png>
+<img src=../assets/page_images/elephant_grass.png>
 </td></tr></table>
 ```
 
