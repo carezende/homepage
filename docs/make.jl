@@ -14,8 +14,7 @@ makedocs(
         "Contact" => "contact.md",
     ],
     format = Documenter.HTML(canonical="https://carezende.github.io/home/stable",
-                             edit_link=nothing,
-                            ),
+                             edit_link=nothing,),
 
 )
 deploydocs(
