@@ -11,6 +11,7 @@ makedocs(
         "People" => "people.md",
         "Publications" => "publications.md",
         "Patents" => "patents.md",
+        "Videos" => "videos.md",
         "Contact" => "contact.md",
     ],
     format = Documenter.HTML(canonical="https://carezende.github.io/home/stable",
