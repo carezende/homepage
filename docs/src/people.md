@@ -73,6 +73,7 @@ researcher at University of York (CNAP, 2017).
 - Guilherme Fioravanti Alves (MsC student)
 - Helena Carolina Rodrigues Barbieri (IC)
 
+
 ## Technical Support: 
 
 - Andreza Camilotti
