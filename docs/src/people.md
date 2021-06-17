@@ -64,13 +64,13 @@ researcher at University of York (CNAP, 2017).
 
 ## Current members
 
+- Polianna da Silva Ferreira (PhD student)
 - Bruna Rodrigues Sussai (PhD student)
 - Camilla Henriques Maia de Camargos (PhD Student)
 - Eupídio Scopel (PhD student)
 - Lidiane de Oliveira Pinto (PhD student)
 - Natália Maria Polidoro (MsC student)
 - Natália Maria Tafarelo (MsC student)
-- Guilherme Fioravanti Alves (MsC student)
 - Helena Carolina Rodrigues Barbieri (IC)
 
 

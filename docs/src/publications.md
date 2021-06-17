@@ -6,6 +6,43 @@
 </center>
 ```
 
+- Scopel, E.; Rezende, C. A. **Biorefinery on-demand: Modulating pretreatments to recover lignin, hemicellulose, and extractives as co-products during ethanol production.** Industrial Crops and Products, v. 163, p. 113336, 2021.
+
+```@raw html
+<table><tr>
+<td valign=center width=15% align=center><img src=../assets/publications/Capa_Cellulose_Sandra.png></td>
+<td>
+<li> Nascimento, S.A.; Scopel, E.; Rezende, C. A. <b>Salt crystallization pressure as a new method to obtain micro and nanocellulose.</b>
+Cellulose, v. 1, p. 1, 2021.
+<!--
+<a href=../assets/publications/48_Elisa_Espuma_2018.pdf>[PDF]</a>
+-->
+</td></tr></table>
+```
+
+```@raw html
+<table><tr>
+<td valign=center width=15% align=center>
+<img src=../assets/publications/capa_green_chemistry_2021.gif>
+</td>
+<td>
+<li> 
+Ferreira, E. S.; Rezende, C. A.; Cranston, E. D.
+<b>
+Fundamentals of cellulose lightweight materials: bio-based assemblies with tailored properties.
+</b>
+Green Chemistry, v. 1, p. 1, 2021.
+<!--
+<a href=../assets/publications/48_Elisa_Espuma_2018.pdf>[PDF]</a>
+-->
+</td></tr></table>
+```
+- Noronha, V. T.; Camargos, C. H. M.; Jackson, J. C.; Souza Filho, A. G.; Paula, A. J.; Rezende, C. A.; Faria, A. F. **Physical Membrane-Stress-Mediated Antimicrobial Properties of Cellulose Nanocrystals.** ACS Sustainable Chemistry & Engineering, v. 9, p. 3203-3212, 2021.
+
+- Moreira, B. R.; Breitkreitz, M. C.; Simister, R.; McQueen-Mason, S. J.; Gomez, L. D.; Rezende, C. A. **Improved hydrolysis yields and silica recovery by design of experiments applied to acid-alkali pretreatment in rice husks.** Industrial Crops and Produxts, v. 170, p. 113676, 2021.
+
+- Jackson, J. C.; Camargos, C. H. M.; Noronha, V. T; Paula, A. J.; Rezende, C. A.; Faria, A. F. **Sustainable Cellulose Nanocrystals for Improved Antimicrobial Properties of Thin Film Composite Membranes.** ACS Sustainable Chemistry & Engineering, v. 9, p. 6534-6540, 2021.
+
 - Rossi, B. R.; Pellegrini, V. A. O.; Cortez, A. A.; Chiromito, E. M. S.; Carvalho, A. J. F.; Pinto, L. O.; Rezende, C. A.; Mastelaro, V. R.; Polikarpov, I. **Cellulose nanofibers production using a set of recombinant enzymes.** Carbohydrate Polymers, v.256, p.117510, 2021. [[PDF]](../assets/publications/60_rossi_2021.pdf)
 
 - Mota, T. R.; Oliveira, D. M.; Simister, R.; Whitehead, C.; Lanot, A.; dos Santos, W. D.; Rezende, C. A.; McQueen-Mason, S. J.; Gomez, L. D. **Design of experiments driven optimization of alkaline pretreatment and saccharification for sugarcane bagasse.** Bioresource Technology, v.321, p.124499, 2021. [[PDF]](../assets/publications/59_mota_2021.pdf)
