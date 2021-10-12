@@ -13,7 +13,7 @@
 <td valign=center width=15% align=center><img src=../assets/publications/Capa_Cellulose_Sandra.png></td>
 <td>
 <li> Nascimento, S.A.; Scopel, E.; Rezende, C. A. <b>Salt crystallization pressure as a new method to obtain micro and nanocellulose.</b>
-Cellulose, v. 1, p. 1, 2021.
+Cellulose, v. 28, p. 4069-4087, 2021.
 <!--
 <a href=../assets/publications/48_Elisa_Espuma_2018.pdf>[PDF]</a>
 -->
@@ -31,7 +31,7 @@ Ferreira, E. S.; Rezende, C. A.; Cranston, E. D.
 <b>
 Fundamentals of cellulose lightweight materials: bio-based assemblies with tailored properties.
 </b>
-Green Chemistry, v. 1, p. 1, 2021.
+Green Chemistry, v. 23, p. 3542-3568, 2021.
 <!--
 <a href=../assets/publications/48_Elisa_Espuma_2018.pdf>[PDF]</a>
 -->
@@ -109,7 +109,7 @@ ACS Sustainable Chemistry & Engineering, v.6, p.14365-14373, 2018.
 
 - Richena, M.; Rezende, C. A. **Effect of photodamage on the outermost cuticle layer of human hair.** Journal of Photochemistry and Photobiology. B, Biology, v. 153, p. 296-304, 2015. [[PDF]](../assets/publications/31_Marina_cabelo_AFM_2015.pdf)
 
-- Attard, T. M.; McElroy, C. R.; Rezende, C. A.; Polikarpov, I.; Clark, J. H.; Hunt, A. J. **Sugarcane waste as a valuable source of lipophilic molecules.** Industrial Crops and Products (Print), v. 76, p. 95-103, 2015. [[PDF]](../assets/publications/30_Tom_Attard_extrativos_2015.pdf)
+- Attard, T. M.; McElroy, C. R.; Rezende, C. A.; Polikarpov, I.; Clark, J. H.; Hunt, A. J. **Sugarcane waste as a valuable source of lipophilic molecules.** Industrial Crops and Products, v. 76, p. 95-103, 2015. [[PDF]](../assets/publications/30_Tom_Attard_extrativos_2015.pdf)
 
 - Pellegrini, V. O. A.; Serpa, V. I.; Godoy, A. S.; Camilo, C. M.; Bernardes, A.; Rezende, C. A.; Pereira Jr., N.; Franco Cairo, J. P. L.; Squina, F. M.; Polikarpov, I. **Recombinant Trichoderma harzianum endoglucanase I (Cel7B) is a highly acidic and promiscuous carbohydrate-active enzyme.** Applied Microbiology and Biotechnology, v. 1, p. 1, 2015. [[PDF]](../assets/publications/29_Vanessa_Endo1_2015.pdf)
 
@@ -163,7 +163,7 @@ ACS Sustainable Chemistry & Engineering, v.6, p.14365-14373, 2018.
 
 - Rezende, C. A.; Luchesi, C.; Barbo, M. L. P.; Duek, E. A. R. **Membranas de poli (ácido lático-co-ácido glicólico) como curativos para pele: degradação in vitro e in vivo.** Polímeros, v. 15, p. 232-238, 2005. [[PDF]](../assets/publications/04_Membranas_2005.pdf)
 
-- Costa, C. A. R.; Gouveia, R. F.; REZENDE, C. A.; Galembeck, F. **An and simple procedure for electric potential mapping by phase contrast in AFM.** Microscopy and Microanalysis, v. 11, DEZ S03, v. 11, p. 14-17, 2005. [[PDF]](../assets/publications/03_LASPM_Costa_2005.pdf)
+- Costa, C. A. R.; Gouveia, R. F.; REZENDE, C. A.; Galembeck, F. **A new and simple procedure for electric potential mapping by phase contrast in AFM.** Microscopy and Microanalysis, v. 11, DEZ S03, v. 11, p. 14-17, 2005. [[PDF]](../assets/publications/03_LASPM_Costa_2005.pdf)
 
 - Rezende, C. A.; Lee, L. T.; Galembeck, F. **Atomic force microscopy applied to the study of dewetting patterns of thin films from polymer solutions.** Microscopy and Microanalysis, v. 11, DEZ S03, p. 110-113, 2005. [[PDF]](../assets/publications/02_LASPM_dewetting_2005.pdf)
 

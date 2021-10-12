@@ -31,6 +31,8 @@
  i++ ; image[i] = '2019emily3.jpeg' ;   text[i] = "Eupídio, Camila, Emily, Elisa, 2019"
  i++ ; image[i] = '2019_grupo2.jpg' ;   text[i] = "Eupídio, Camila, Henrique, Helena, Lidiane, Andreza, Camilla, 2019"
  i++ ; image[i] = '2019_grupo3.jpg' ;   text[i] = "Henrique, Eupídio, Camila, Helena, Lidiane, Andreza, Camilla, 2019"
+ i++ ; image[i] = 'grupo2021_1.jpg' ;   text[i] = "Bruna, Natalia Polidoro, Helena, Eupídio, Felipe, Mariana, Lidiane, Camila, 2021"
+ i++ ; image[i] = 'grupo2021_2.jpg' ;   text[i] = "Felipe, Polianna, Camila, Mariana, Eupídio, Helena, Lidiane, Natália Polidoro, Bruna, 2021"
  var rand = 1000/image.length
  function randomimage() {
       currentdate = new Date()
