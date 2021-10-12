@@ -12,7 +12,7 @@
      this[i] = ' '
    }
  }
- nimages=15
+ nimages=17
  image = new ImageArray(nimages)
  text = new ImageArray(nimages)
  i=-1
