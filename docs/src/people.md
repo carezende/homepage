@@ -66,14 +66,17 @@ researcher at University of York (CNAP, 2017).
 
 ## Current members
 
+- Camilla Henriques Maia de Camargos (Researcher)
 - Polianna da Silva Ferreira (PhD student)
 - Bruna Rodrigues Sussai (PhD student)
-- Camilla Henriques Maia de Camargos (PhD Student)
 - Eupídio Scopel (PhD student)
 - Lidiane de Oliveira Pinto (PhD student)
 - Natália Maria Polidoro (MsC student)
 - Natália Maria Tafarelo (MsC student)
-- Helena Carolina Rodrigues Barbieri (IC)
+- Mariana Neto Bento da Silva (IC)
+- Felipe Ferreira Meneses (IC)
+- José Nunes Brandão Júnior (IC)
+- Júlia Benar Gonçalves (IC)
 
 
 ## Technical Support: 
@@ -82,6 +85,8 @@ researcher at University of York (CNAP, 2017).
 
 ## Former members
 
+- Camilla Henriques Maia de Camargos (PhD Student)
+- Helena Carolina Rodrigues Barbieri (IC)
 - Elisa Silva Ferreira (PhD Student)
 - Sandra Américo do Nascimento (PhD student)
 - Eupídio Scopel (MsC)

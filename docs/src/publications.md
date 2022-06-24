@@ -6,7 +6,17 @@
 </center>
 ```
 
-- Scopel, E.; Rezende, C. A. **Biorefinery on-demand: Modulating pretreatments to recover lignin, hemicellulose, and extractives as co-products during ethanol production.** Industrial Crops and Products, v. 163, p. 113336, 2021.
+- Camargos, C. H. M.; Poggi, G.; Chelazzi, D.; Baglioni, P.; Rezende, C. A.; **Strategies to mitigate the synergistic effects of moist-heat aging on TEMPO-oxidized nanocellulose.** Polymer Degradation & Stability, v. 200, p. 109943, 2022.  [[PDF]](../assets/publications/70_Camilla_aging_2022.pdf)
+
+- Noronha, V. T.; Jackson, J. C.; Camargos, C. H. M.; Paula, A. J.; Rezende, C. A.; Faria, A. F. **“Atacking-atacking” anti-biofouling strategy enabled by cellulose nanocrystals – silver materials.** ACS Applied Bio Materials, v. 5, p. 1025-1037, 2022.  [[PDF]](../assets/publications/71_Victor_Andrea_Atacking-Atacking_2022.pdf)
+
+- Zambuzi, G.C.; Camargos, C. H. M.; Ferreira, M. P.; Rezende, C. A.; Freitas, O.; Francisco, K. R. **Modulating the controlled release of hydroxychloroquine mobilized on pectin films through film-forming pH and incorporation of nanocellulose.** Carbohydrate Polymer Technologies and Applications v. 2, p. 10014, 2021.  [[PDF]](../assets/publications/67_Kelly_Pectina_HCQ_2021.pdf)
+
+- Camargos, C. H. M.; Rezende, C. A. **Structure-Property relationships of cellulose nanocrystals and nanofibrils: Implications for the design and performance of nanocomposites and all-nanocellulose systems.** ACS Applied Nano Materials, v. 4, p. 10505-10518, 2021.  [[PDF]](../assets/publications/68_Camilla_Nanoceluloses_2021.pdf)
+
+- Camargos, C. H. M.; Rezende, C. A.; **Antisolvent versus ultrasonication: Bottom-up and top-down approaches to produce lignin nanoparticles (LNPs) with tailored properties.** International Journal of Biological Macromolecules, v. 193, p. 647-660, 2021.  [[PDF]](../assets/publications/69_Camilla_Nanoligninas_2021.pdf)
+
+- Scopel, E.; Rezende, C. A. **Biorefinery on-demand: Modulating pretreatments to recover lignin, hemicellulose, and extractives as co-products during ethanol production.** Industrial Crops and Products, v. 163, p. 113336, 2021.  [[PDF]](../assets/publications/69b_Eupidio_2021.pdf)
 
 ```@raw html
 <table><tr>
