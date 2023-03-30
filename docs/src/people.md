@@ -66,17 +66,17 @@ researcher at University of York (CNAP, 2017).
 
 ## Current members
 
+- Sayeny Ávila Gonçalves (Researcher)
 - Camilla Henriques Maia de Camargos (Researcher)
 - Polianna da Silva Ferreira (PhD student)
 - Bruna Rodrigues Sussai (PhD student)
 - Eupídio Scopel (PhD student)
 - Lidiane de Oliveira Pinto (PhD student)
+- Thais Cardoso de Oliveira (PhD student)
+- João Pedro Gumiero Rodrigues (PhD student)
 - Natália Maria Polidoro (MsC student)
 - Natália Maria Tafarelo (MsC student)
-- Mariana Neto Bento da Silva (IC)
-- Felipe Ferreira Meneses (IC)
 - José Nunes Brandão Júnior (IC)
-- Júlia Benar Gonçalves (IC)
 
 
 ## Technical Support: 
@@ -85,19 +85,20 @@ researcher at University of York (CNAP, 2017).
 
 ## Former members
 
-- Camilla Henriques Maia de Camargos (PhD Student)
-- Helena Carolina Rodrigues Barbieri (IC)
-- Elisa Silva Ferreira (PhD Student)
-- Sandra Américo do Nascimento (PhD student)
+- Marina Richena (Researcher)
+- Lucimara Lopes da Silva (Researcher)
+- Camilla Henriques Maia de Camargos (PhD)
+- Elisa Silva Ferreira (PhD)
+- Sandra Américo do Nascimento (PhD)
 - Eupídio Scopel (MsC)
 - Lidiane de Oliveira Pinto (MsC)
-- Bruna dos Santos Botelho (IC)
-- Henrique Trevisan (MsC student)
-- Beatriz Widmer Atta (IC)
-- Marina Richena (postdoctoral researcher)
-- Lucimara Lopes da Silva (postdoctoral researcher)
+- Henrique Trevisan (MsC)
 - Rodrigo Aparecido Pena da Silva (IC)
 - Samantha Freire Mendes (IC)
-- Julie Alexandra Bautista Otalora (TT3)
+- Mariana Neto Bento da Silva (IC)
+- Felipe Ferreira Meneses (IC)
+- Helena Carolina Rodrigues Barbieri (IC)
+- Bruna dos Santos Botelho (IC)
+- Beatriz Widmer Atta (IC)
 - Yone Sayuri Hanagusko de Siqueira (IC)
-
+- Julie Alexandra Bautista Otalora (TT3)
