@@ -12,7 +12,7 @@
      this[i] = ' '
    }
  }
- nimages=17
+ nimages=21
  image = new ImageArray(nimages)
  text = new ImageArray(nimages)
  i=-1
@@ -33,6 +33,10 @@
  i++ ; image[i] = '2019_grupo3.jpg' ;   text[i] = "Henrique, Eupídio, Camila, Helena, Lidiane, Andreza, Camilla, 2019"
  i++ ; image[i] = 'grupo2021_1.jpg' ;   text[i] = "Bruna, Natalia Polidoro, Helena, Eupídio, Felipe, Mariana, Lidiane, Camila, 2021"
  i++ ; image[i] = 'grupo2021_2.jpg' ;   text[i] = "Felipe, Polianna, Camila, Mariana, Eupídio, Helena, Lidiane, Natália Polidoro, Bruna, 2021"
+ i++ ; image[i] = 'grupo2023_1.jpg' ;   text[i] = "Eupídio. Lidiane, Polianna e José (acima) e Thais, Natália Polidoro, Sayeny, Camila, Camilla, Andreza e João Pedro (abaixo), 2023."
+ i++ ; image[i] = 'grupo2023_2.jpg' ;   text[i] = "Thais, José, Eupídio, Natália Polidoro, Andreza, Camilla, Lidiane, Polianna, Sayeny, Camila e João Pedro (abaixo), 2023."
+ i++ ; image[i] = 'grupo2023_3.jpg' ;   text[i] = "Thais, José, Lidiane, Polianna, Andreza, Camila, Camilla, Eupídio, Sayeny, Natália Polidoro e João Pedro, 2023"
+ i++ ; image[i] = 'grupo2023_4.jpg' ;   text[i] = "Thais, José, Lidiane, Polianna, Andreza, Camila, Camilla, Eupídio, Sayeny, Natália Polidoro e João Pedro, 2023"
  var rand = 1000/image.length
  function randomimage() {
       currentdate = new Date()
@@ -66,18 +70,17 @@ researcher at University of York (CNAP, 2017).
 
 ## Current members
 
+- Laura Caetano Escobar da Silva (Researcher)
 - Sayeny Ávila Gonçalves (Researcher)
-- Camilla Henriques Maia de Camargos (Researcher)
 - Polianna da Silva Ferreira (PhD student)
 - Bruna Rodrigues Sussai (PhD student)
 - Eupídio Scopel (PhD student)
 - Lidiane de Oliveira Pinto (PhD student)
 - Thais Cardoso de Oliveira (PhD student)
 - João Pedro Gumiero Rodrigues (PhD student)
+- Isabella de Arandas Silva (MsC student)
 - Natália Maria Polidoro (MsC student)
 - Natália Maria Tafarelo (MsC student)
-- José Nunes Brandão Júnior (IC)
-
 
 ## Technical Support: 
 
@@ -87,12 +90,13 @@ researcher at University of York (CNAP, 2017).
 
 - Marina Richena (Researcher)
 - Lucimara Lopes da Silva (Researcher)
-- Camilla Henriques Maia de Camargos (PhD)
+- Camilla Henriques Maia de Camargos (PhD, Researcher)
 - Elisa Silva Ferreira (PhD)
 - Sandra Américo do Nascimento (PhD)
 - Eupídio Scopel (MsC)
 - Lidiane de Oliveira Pinto (MsC)
 - Henrique Trevisan (MsC)
+- José Nunes Brandão Júnior (IC)
 - Rodrigo Aparecido Pena da Silva (IC)
 - Samantha Freire Mendes (IC)
 - Mariana Neto Bento da Silva (IC)
