@@ -34,7 +34,7 @@
  i++ ; image[i] = 'grupo2021_1.jpg' ;   text[i] = "Bruna, Natalia Polidoro, Helena, Eupídio, Felipe, Mariana, Lidiane, Camila, 2021"
  i++ ; image[i] = 'grupo2021_2.jpg' ;   text[i] = "Felipe, Polianna, Camila, Mariana, Eupídio, Helena, Lidiane, Natália Polidoro, Bruna, 2021"
  i++ ; image[i] = 'grupo2023_1.jpg' ;   text[i] = "Eupídio. Lidiane, Polianna e José (acima) e Thais, Natália Polidoro, Sayeny, Camila, Camilla, Andreza e João Pedro (abaixo), 2023."
- i++ ; image[i] = 'grupo2023_2.jpg' ;   text[i] = "Thais, José, Eupídio, Natália Polidoro, Andreza, Camilla, Lidiane, Polianna, Sayeny, Camila e João Pedro (abaixo), 2023."
+ i++ ; image[i] = 'grupo2023_2.jpg' ;   text[i] = "Thais, José, Eupídio, Natália Polidoro, Andreza, Camilla, Lidiane, Polianna, Sayeny, Camila e João Pedro, 2023"
  i++ ; image[i] = 'grupo2023_3.jpg' ;   text[i] = "Thais, José, Lidiane, Polianna, Andreza, Camila, Camilla, Eupídio, Sayeny, Natália Polidoro e João Pedro, 2023"
  i++ ; image[i] = 'grupo2023_4.jpg' ;   text[i] = "Thais, José, Lidiane, Polianna, Andreza, Camila, Camilla, Eupídio, Sayeny, Natália Polidoro e João Pedro, 2023"
  var rand = 1000/image.length
