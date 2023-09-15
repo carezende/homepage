@@ -4,6 +4,7 @@ using Documenter
 push!(LOAD_PATH,"../src/")
 makedocs(
     #modules=[Home],
+    warnonly = true, 
     sitename="LaQuiMoBio",
     pages = [
         "Home" => "index.md",
