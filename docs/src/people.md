@@ -2,51 +2,95 @@
 
 ```@raw html
 <script type="text/javascript">
-<!--
- var imlocation = "../assets/page_images/";
- var currentdate = 0;
- var image_number = 0;
- function ImageArray (n) {
-   this.length = n;
-   for (var i =1; i <= n; i++) {
-     this[i] = ' '
-   }
- }
- nimages=21
- image = new ImageArray(nimages)
- text = new ImageArray(nimages)
- i=-1
- i++ ; image[i] = 'grupo2.jpg' ;      text[i] = "Marina, Alexandra, Andreza, Camila, Samantha, Sandra and Rodrigo, 2015"
- i++ ; image[i] = 'grupo.jpg' ;       text[i] = "Samantha, Yone, Andreza, Camila, Juliano and Vitor, 2015"
- i++ ; image[i] = 'grupo2017.jpg' ;   text[i] = "Sandra, Bruna Moreira, Camila, Andreza, Henrique, Elisa, Eupídio and Camilla, 2017"
- i++ ; image[i] = 'grupo2017_2.jpg' ; text[i] = "Eupídio, Andreza, Elisa, Camilla, Camila, Bruna, Sandra and Henrique, 2017"
- i++ ; image[i] = 'ferdi2017.jpg' ;   text[i] = "Lidiane, Sandra, Bruna Rodrigues, Eupídio, Henrique, Camilla, Ferdinando, Elisa, Camila, Andreza, Bruna Botelho, 2017"
- i++ ; image[i] = 'grupo2019_defesa_lidiane.jpg' ;   text[i] = "Sandra, Lidiane, Helena, Camilla, Henrique, Valentin, Camila, Eupídio, José, Elisa, 2019"
- i++ ; image[i] = 'grupo2018_junina.jpg' ;   text[i] = "Sandra, Andreza, Camila, Eupídio, Camilla, Elisa, Henrique, 2018"
- i++ ; image[i] = 'grupo2018_natal.jpg' ;   text[i] = "Eupídio, Camila, Bruna Rodrigues, Henrique, Camilla, Andreza, Lidiane, Sandra, Bruna Botelho, 2018"
- i++ ; image[i] = 'grupo2018_natal2.jpg' ;   text[i] = "Sandra, Lidiane, Henrique, Andreza, Camila, Camilla, Bruna Rodigues, Bruna Botelho, Eupídio, 2018"
- i++ ; image[i] = 'grupo2019.jpg' ;   text[i] = "Bruna, Lidiane, Helena, Elisa, Camila, Valentin, Eupídio, Sandra, Bruna Rodrigues, 2019"
- i++ ; image[i] = '2019emily.jpeg' ;   text[i] = "Emily, Camila, Elisa, 2019"
- i++ ; image[i] = '2019emily2.jpeg' ;   text[i] = "Emily, Elisa, Camila, Valentin, Leandro, 2019"
- i++ ; image[i] = '2019emily3.jpeg' ;   text[i] = "Eupídio, Camila, Emily, Elisa, 2019"
- i++ ; image[i] = '2019_grupo2.jpg' ;   text[i] = "Eupídio, Camila, Henrique, Helena, Lidiane, Andreza, Camilla, 2019"
- i++ ; image[i] = '2019_grupo3.jpg' ;   text[i] = "Henrique, Eupídio, Camila, Helena, Lidiane, Andreza, Camilla, 2019"
- i++ ; image[i] = 'grupo2021_1.jpg' ;   text[i] = "Bruna, Natalia Polidoro, Helena, Eupídio, Felipe, Mariana, Lidiane, Camila, 2021"
- i++ ; image[i] = 'grupo2021_2.jpg' ;   text[i] = "Felipe, Polianna, Camila, Mariana, Eupídio, Helena, Lidiane, Natália Polidoro, Bruna, 2021"
- i++ ; image[i] = 'grupo2023_1.jpg' ;   text[i] = "Eupídio. Lidiane, Polianna e José (acima) e Thais, Natália Polidoro, Sayeny, Camila, Camilla, Andreza e João Pedro (abaixo), 2023."
- i++ ; image[i] = 'grupo2023_2.jpg' ;   text[i] = "Thais, José, Eupídio, Natália Polidoro, Andreza, Camilla, Lidiane, Polianna, Sayeny, Camila e João Pedro, 2023"
- i++ ; image[i] = 'grupo2023_3.jpg' ;   text[i] = "Thais, José, Lidiane, Polianna, Andreza, Camila, Camilla, Eupídio, Sayeny, Natália Polidoro e João Pedro, 2023"
- i++ ; image[i] = 'grupo2023_4.jpg' ;   text[i] = "Thais, José, Lidiane, Polianna, Andreza, Camila, Camilla, Eupídio, Sayeny, Natália Polidoro e João Pedro, 2023"
- var rand = 1000/image.length
- function randomimage() {
-      currentdate = new Date()
-      image_number = currentdate.getMilliseconds()
-      image_number = Math.floor(image_number/rand)
-      return [image[image_number],text[image_number]]
- }
- var imgdata = randomimage()
- document.write("<center><table width=60%><tr><td align=center><img src='" + imlocation + imgdata[0]+ "'></td></tr><tr><td align=center>"+ imgdata[1]+"</td></tr></table></center>");
-//-->
+let pics = [
+  { 
+    image: 'grupo2.jpg', 
+    caption: "Marina, Alexandra, Andreza, Camila, Samantha, Sandra and Rodrigo, 2015" 
+  },
+  { 
+    image: 'grupo.jpg', 
+    caption: "Samantha, Yone, Andreza, Camila, Juliano and Vitor, 2015" 
+  },
+  { 
+    image: 'grupo2017.jpg', 
+    caption: "Sandra, Bruna Moreira, Camila, Andreza, Henrique, Elisa, Eupídio and Camilla, 2017" 
+  },
+  { 
+    image: 'grupo2017_2.jpg', 
+    caption: "Eupídio, Andreza, Elisa, Camilla, Camila, Bruna, Sandra and Henrique, 2017" 
+  },
+  { 
+    image: 'ferdi2017.jpg', 
+    caption: "Lidiane, Sandra, Bruna Rodrigues, Eupídio, Henrique, Camilla, Ferdinando, Elisa, Camila, Andreza, Bruna Botelho, 2017" 
+  },
+  { 
+    image: 'grupo2019_defesa_lidiane.jpg', 
+    caption: "Sandra, Lidiane, Helena, Camilla, Henrique, Valentin, Camila, Eupídio, José, Elisa, 2019" 
+  },
+  { 
+    image: 'grupo2018_junina.jpg', 
+    caption: "Sandra, Andreza, Camila, Eupídio, Camilla, Elisa, Henrique, 2018" 
+  },
+  { 
+    image: 'grupo2018_natal.jpg', 
+    caption: "Eupídio, Camila, Bruna Rodrigues, Henrique, Camilla, Andreza, Lidiane, Sandra, Bruna Botelho, 2018" 
+  },
+  { 
+    image: 'grupo2018_natal2.jpg', 
+    caption: "Sandra, Lidiane, Henrique, Andreza, Camila, Camilla, Bruna Rodigues, Bruna Botelho, Eupídio, 2018" 
+  },
+  { 
+    image: 'grupo2019.jpg', 
+    caption: "Bruna, Lidiane, Helena, Elisa, Camila, Valentin, Eupídio, Sandra, Bruna Rodrigues, 2019" 
+  },
+  { 
+    image: '2019emily.jpeg', 
+    caption: "Emily, Camila, Elisa, 2019" 
+  },
+  { 
+    image: '2019emily2.jpeg', 
+    caption: "Emily, Elisa, Camila, Valentin, Leandro, 2019" 
+  },
+  { 
+    image: '2019emily3.jpeg', 
+    caption: "Eupídio, Camila, Emily, Elisa, 2019" 
+  },
+  { 
+    image: '2019_grupo2.jpg', 
+    caption: "Eupídio, Camila, Henrique, Helena, Lidiane, Andreza, Camilla, 2019" 
+  },
+  { 
+    image: '2019_grupo3.jpg', 
+    caption: "Henrique, Eupídio, Camila, Helena, Lidiane, Andreza, Camilla, 2019" 
+  },
+  { 
+    image: 'grupo2021_1.jpg', 
+    caption: "Bruna, Natalia Polidoro, Helena, Eupídio, Felipe, Mariana, Lidiane, Camila, 2021" 
+  },
+  { 
+    image: 'grupo2021_2.jpg', 
+    caption: "Felipe, Polianna, Camila, Mariana, Eupídio, Helena, Lidiane, Natália Polidoro, Bruna, 2021" 
+  },
+  { 
+    image: 'grupo2023_1.jpg', 
+    caption: "Eupídio. Lidiane, Polianna e José (acima) e Thais, Natália Polidoro, Sayeny, Camila, Camilla, Andreza e João Pedro (abaixo), 2023." 
+  },
+  { 
+    image: 'grupo2023_2.jpg', 
+    caption: "Thais, José, Eupídio, Natália Polidoro, Andreza, Camilla, Lidiane, Polianna, Sayeny, Camila e João Pedro, 2023" 
+  },
+  { 
+    image: 'grupo2023_3.jpg', 
+    caption: "Thais, José, Lidiane, Polianna, Andreza, Camila, Camilla, Eupídio, Sayeny, Natália Polidoro e João Pedro, 2023" 
+  },
+  { 
+    image: 'grupo2023_4.jpg', 
+    caption: "Thais, José, Lidiane, Polianna, Andreza, Camila, Camilla, Eupídio, Sayeny, Natália Polidoro e João Pedro, 2023" 
+  }
+];
+let randomIndex = Math.floor(Math.random() * pics.length);
+let rndpic = pics[randomIndex];
+document.write("<img width=485px src='" +rndpic.image+ "'><br>"+rndpic.caption);
 </script>
 ```
 
