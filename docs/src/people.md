@@ -90,7 +90,7 @@ let pics = [
 ];
 let randomIndex = Math.floor(Math.random() * pics.length);
 let rndpic = pics[randomIndex];
-document.write("<img width=485px src='/assets/page_images/" +rndpic.image+ "'><br>"+rndpic.caption);
+document.write("<img width=485px src='./assets/page_images/" +rndpic.image+ "'><br>"+rndpic.caption);
 </script>
 ```
 
@@ -98,7 +98,7 @@ document.write("<img width=485px src='/assets/page_images/" +rndpic.image+ "'><b
  
 ```@raw html
 <table witdh=100%><tr>
-<td width=20% align=center><img src=/assets/page_images/eu_3.jpg><br>
+<td width=20% align=center><img src=./assets/page_images/eu_3.jpg><br>
 <a target=newpage href=http://lattes.cnpq.br/3532058764024942>CV Lattes</a>
 </td>
 <td valign=top>
