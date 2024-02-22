@@ -90,7 +90,7 @@ let pics = [
 ];
 let randomIndex = Math.floor(Math.random() * pics.length);
 let rndpic = pics[randomIndex];
-document.write("<img width=485px src='" +rndpic.image+ "'><br>"+rndpic.caption);
+document.write("<img width=485px src='./assets/page_images/" +rndpic.image+ "'><br>"+rndpic.caption);
 </script>
 ```
 
