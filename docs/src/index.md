@@ -14,13 +14,13 @@ different areas are welcome!
 
 ```@raw html
 <center>
-<img src=../assets/page_images/camila_lab1.png width=60%>
+<img src=./assets/page_images/camila_lab1.png width=60%>
 </center><br><br>
 ```
 
 We thank the support of
 ```@raw html
 <center>
-<img src=../assets/page_images/logos.png width=485px>
+<img src=./assets/page_images/logos.png width=485px>
 </center>
 ```
