@@ -35,32 +35,32 @@ Right-click on the images to copy/view in full size <br>
 
 <tr>
 <td valign=center align=right><b>Complete logo:</b></td>
-<td align=center><img width=130px src=../assets/page_images/logo_complete.svg><br><br></td>
-<td align=center><img width=130px src=../assets/page_images/logo_complete.png><br><br></td>
+<td align=center><img width=130px src=/assets/page_images/logo_complete.svg><br><br></td>
+<td align=center><img width=130px src=/assets/page_images/logo_complete.png><br><br></td>
 </tr>
 
 <tr>
 <td valign=center align=right><b>Logo without text:</b></td>
-<td align=center><img width=130px src=../assets/page_images/logo_notext.svg><br><br></td>
-<td align=center><img width=130px src=../assets/page_images/logo_notext.png><br><br></td>
+<td align=center><img width=130px src=/assets/page_images/logo_notext.svg><br><br></td>
+<td align=center><img width=130px src=/assets/page_images/logo_notext.png><br><br></td>
 </tr>
 
 <tr>
 <td valign=center align=right><b>Logo without text or borders:</b></td>
-<td align=center><img width=130px src=../assets/page_images/logo_noborder.svg><br><br></td>
-<td align=center><img width=130px src=../assets/page_images/logo_noborder.png><br><br></td>
+<td align=center><img width=130px src=/assets/page_images/logo_noborder.svg><br><br></td>
+<td align=center><img width=130px src=/assets/page_images/logo_noborder.png><br><br></td>
 </tr>
 
 <tr>
 <td valign=center align=right><b>Unicamp logo:</b></td>
-<td align=center><img width=130px src=../assets/page_images/logo_unicamp.svg><br><br></td>
-<td align=center><img width=130px src=../assets/page_images/logo_unicamp.png><br><br></td>
+<td align=center><img width=130px src=/assets/page_images/logo_unicamp.svg><br><br></td>
+<td align=center><img width=130px src=/assets/page_images/logo_unicamp.png><br><br></td>
 </tr>
 
 <tr>
 <td valign=center align=right><b>IQ logo:</b></td>
-<td align=center><img width=130px src=../assets/page_images/logo_iq.svg><br><br></td>
-<td align=center><img width=130px src=../assets/page_images/logo_iq.png><br><br></td>
+<td align=center><img width=130px src=/assets/page_images/logo_iq.svg><br><br></td>
+<td align=center><img width=130px src=/assets/page_images/logo_iq.png><br><br></td>
 </tr>
 
 </table>
