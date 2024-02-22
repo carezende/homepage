@@ -32,7 +32,7 @@
 
 ```@raw html
 <table><tr>
-<td valign=center width=15% align=center><img src=/assets/publications/Capa_Cellulose_Sandra.png></td>
+<td valign=center width=15% align=center><img src=../assets/publications/Capa_Cellulose_Sandra.png></td>
 <td>
 <li> Nascimento, S.A.; Scopel, E.; Rezende, C. A. <b>Salt crystallization pressure as a new method to obtain micro and nanocellulose.</b>
 Cellulose, v. 28, p. 4069-4087, 2021.
@@ -89,7 +89,7 @@ Green Chemistry, v. 23, p. 3542-3568, 2021.
 
 ```@raw html
 <table><tr>
-<td valign=center width=15% align=center><img src=/assets/page_images/foam.jpg></td>
+<td valign=center width=15% align=center><img src=../assets/page_images/foam.jpg></td>
 <td>
 <li> Ferreira, E. S.; Rezende, C. A. <b>Simple preparation of cellulosic lighweight materials from eucalyptus pulp.</b>
 ACS Sustainable Chemistry & Engineering, v.6, p.14365-14373, 2018. 
