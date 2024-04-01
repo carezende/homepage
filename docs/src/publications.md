@@ -45,7 +45,7 @@ Cellulose, v. 28, p. 4069-4087, 2021.
 ```@raw html
 <table><tr>
 <td valign=center width=15% align=center>
-<img src=/assets/publications/capa_green_chemistry_2021.gif>
+<img src=../assets/publications/capa_green_chemistry_2021.gif>
 </td>
 <td>
 <li> 
