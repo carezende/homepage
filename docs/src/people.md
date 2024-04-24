@@ -124,7 +124,6 @@ researcher at University of York (CNAP, 2017).
 - João Pedro Gumiero Rodrigues (PhD student)
 - Isabella de Arandas Silva (MsC student)
 - Natália Maria Polidoro (MsC student)
-- Natália Maria Tafarelo (MsC student)
 
 ## Technical Support: 
 

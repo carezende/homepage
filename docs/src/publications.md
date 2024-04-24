@@ -6,6 +6,16 @@
 </center>
 ```
 
+- Tanganini, I. C.; Camargos, C. H. M.; Jackson, J. C,; Rezende, C.A. ; Ceccato-Antonini, S. R.; Faria, A. F. Self-assembled lignin nanoparticles produced from elephant grass leaves enable selective inactivation of Gram-positive microorganisms. RSC Sustainability, v. 1, p. 1, 2024. [[PDF]](./assets/publications/Tanganini_2023.pdf)
+
+- Yang, L.; Jackson, J.C.; Camargos, C, H, M.; Torres Maia, M.; Martinez, D. S. T.; De Paula, A. J.; Rezende, C. A.; Faria, A. F. Thin-Film Composite Polyamide Membranes Decorated with Photoactive Carbon Dots for Antimicrobial Applications. ACS Applied Nano Materials, v. 1, p. 1, 2024. [[PDF]](./assets/publications/Yang_2024.pdf)
+
+- Ferreira, J. O.; Zambuzi, G. C.; Camargos, C.H.M.; Carvalho, A. C. W.; Ferreira, M. P.; Rezende, C. A.; De Freitas, O.; Francisco, K. R. Zein and hydroxypropyl methylcellulose acetate succinate microfibers combined with metronidazole benzoate and/or metronidazole-incorporated cellulose nanofibrils for potential periodontal treatment. International Journal of Biological Macromolecules, v. 261, p. 129701, 2024. [[PDF]](./assets/publications/Ferreira_2024.pdf) 
+
+- Tramontina, R.; Scopel, E.; Brenelli, L.; Nogueira, G. P.; Franco, T. T.; Rezende, C. A. ; Goldbeck, R.; Squina, F. M. Applying biorefinery concepts for sugarcane straw upcycling using alkaline and enzymatic treatments to produce value-added compounds and bioenergy. Biomass & Bioenergy, v. 178, p. 106972, 2023. [[PDF]](./assets/publications/Tramontina_2023.pdf)
+
+- Kane, A. O.; Scopel, E.; Cortez, A. A.; Rossi, B. R.; Pellegrini, V. O. A.; Rezende, C. A.; Polikarpov, I. Enzyme-assisted production of cellulose nanofibers from bleached and bleached/sulfonated sugarcane bagasse: impact of sulfonation on nanocellulose properties and yields. Cellulose, v. 1, p. 1, 2023. [[PDF]](./assets/publications/Kane_2023.pdf)
+
 - Dias, A. L. B.; Hatami, T.; Viganó, J.; Araújo, E. J. S.; Mei, L. H. I.; Rezende, C. A.; Martínez, J. **Role of supercritical CO2 impregnation variables on b-carotene loading into corn starch aerogel particles.** Journal of CO2 Utilization, v. 63, p. 102125, 2023. [[PDF]](./assets/publications/72_Dias_Julian_Betacaroteno_Aerogel_2022.pdf)
 
 - Camargos, C. H. M.; Poggi, G.; Chelazzi, D.; Baglioni, P.; Rezende, C. A. **Protective coatings based on cellulose nanofibrils, cellulose nanocrystals, and lignin nanoparticles for the conservation of cellulosic artifacts.** ACS Applied Nanomaterials, v. 5, 9, p. 13245-13259, 2022. [[PDF]](./assets/publications/73_Camargos_coating_2022.pdf)
